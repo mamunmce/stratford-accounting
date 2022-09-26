@@ -1,0 +1,178 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.top-main-section{
+  clip-path: circle(95.7% at 50% -40%);
+  background-color: #2ed573;
+  padding-top: 25px;
+}
+
+.top-section{
+width: 1150px;
+margin: auto;
+}
+
+.top-width{
+  height: 900px;
+}
+
+.top-nav{
+  display: flex;
+}
+
+.logo img{
+  width: 60px;
+}
+
+.logo-text p{
+  font-size: 1.5em;
+  width: 120px;
+  padding-left: 15px;
+}
+
+.top-header{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+
+.header-text{
+  font-size: 3em;
+  width: 600px;
+}
+
+.computer-images img{
+  width: 500px;
+}
+
+.header-text button{
+  font-size: 0.5em;
+  background-color: #dfe4ea;
+  border: none;
+  padding: 6px 50px;
+  border-radius: 20px;
+  cursor: pointer;
+  margin-top: 35px;
+}
+
+.top-header {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.profile h2{
+  font-size: 3em;
+  color: #2ed573;
+}
+
+.profile p{
+  width: 300px;
+  line-height: 2;
+  letter-spacing: 2px;
+  font-weight: bold;
+  margin-left: 20px;
+  margin-top: 30px;
+ }
+
+ .h-our-class{
+  font-size: 3em;
+  text-align: center;
+  margin: 120px 0 60px 0;
+  color: #2ed573;
+ }
+
+ #card-1{
+  background-color: #b6f3cf;
+ }
+ #card-2{
+  background-color: #7ae9a8;
+ }
+ #card-3{
+  background-color: #2ed573;
+ }
+
+.our-services{
+  display: flex;
+  justify-content: space-around;
+}
+
+.cart-div{
+  padding: 80px 75px;
+}
+
+.post-text{
+  width: 250px;
+  margin: auto;
+  text-align: center;
+}
+
+.post-text h3{
+  padding: 35px 0 25px 0;
+}
+
+.card-img img{
+  width: 300px;
+}
+
+.card-sit{
+  display: flex;
+  justify-content: center;
+}
+.card-sit h3{
+  width: 200px;
+  margin: 50px 0;
+  color: #2ed573;
+}
+.card-sit p{
+  width: 500px;
+  margin: 50px 0;
+}
+
+.wlc-img img{
+  width: 200px; 
+  margin-left: 460px; 
+  padding-bottom: 50px;
+  margin-top: 100px;
+}
+
+.welcome-text h2{
+  width: 382px;
+  font-size: 2em;
+  margin: auto;
+  color: #2ed573;
+}
+
+.welcome-text p{
+  text-align: center;
+  margin-top: 20px;
+}
+
+ footer{
+  clip-path: circle(69.6% at 50% 132%);
+  background-color: #c2ffd59a;
+  
+ }
+
+ .works{
+  padding-top: 50px;
+ }
+
+ .footer-div{
+  width: 400px;
+  margin: auto;
+  text-align: center;
+  color: #2ed573;
+  margin-top: 100px;
+ }
+
+ .footer-div h1{
+  font-size: 2em;
+  margin-top: 10px;
+  margin-bottom: 40px;
+ }
+ .footer-div p{
+  color: black;
+ }
+ 
